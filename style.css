@@ -3,12 +3,35 @@ font-family: 'Open Sans', sans-serif;
 background:#FFF1E6;
 }
 
+nav{
+  margin: 20px;
+  padding: 7px;
+  font-size: 20px;
+}
+
+a:visited {
+  color: #0000;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: #94593D;
+  text-decoration: none;
+}
+
+/* selected link */
+a:active  {
+  color: #0000;
+  text-decoration: none;
+}
+
 h1{
   text-align: center;
   color: #94593D;
   margin: 10px;
 }
-h2{
+h2 , ul{
   color: #94593D;
 }
 
@@ -17,9 +40,7 @@ p{
   color: #94593D;
 }
 
-ul{
-  color: #94593D;
-}
+
 
 #coding img{
   display: block;
@@ -55,4 +76,3 @@ section {
   margin: auto;
 }
 
-.nav
