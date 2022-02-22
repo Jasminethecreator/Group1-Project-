@@ -4,13 +4,19 @@ background:#FFF1E6;
 }
 
 nav{
-  margin: 20px;
+  margin: 28px;
   padding: 7px;
   font-size: 20px;
-}
+  font-weight:700;
+  display: flex;
+  justify-content: space-evenly;
 
+}
+a{
+  text-decoration: none;
+}
 a:visited {
-  color: #0000;
+  color: #94593D;
   text-decoration: none;
 }
 
@@ -22,7 +28,7 @@ a:hover {
 
 /* selected link */
 a:active  {
-  color: #0000;
+  color: #94593D;
   text-decoration: none;
 }
 
@@ -41,6 +47,16 @@ p{
 }
 
 
+button{
+  background-color: #9b6c37; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+  border-radius: 32px;
+}
+
 
 #coding img{
   display: block;
@@ -48,6 +64,9 @@ p{
   margin-right: auto;
   width: 500px;
 }
+
+
+
 
 .image-gallery{
   display: flex;
@@ -74,5 +93,6 @@ section {
   padding: 10px 30px;
   max-width: 1200px;
   margin: auto;
+
 }
 
