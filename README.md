@@ -3,7 +3,7 @@
 
 ![Lyndsey Scott](lscover.png?raw=true)
 
-[View Live Site](https://eff.org)
+[View Live Site](https://lyndseyscott.vercel.app/)
 ## **Overview**
 A responsive site honoring women of color in technology: Lyndsey Scott
 
