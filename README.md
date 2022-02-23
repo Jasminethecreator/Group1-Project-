@@ -9,14 +9,16 @@ A responsive site honoring women of color in technology: Lyndsey Scott
 
 
 ## **Tech Stack**
- HTML, CSS, JavaScript
+ * HTMl
+ *  CSS
+ *  JavaScript
 
 
 ## **Implentation**
-semantic elements
-css box model
-flexbox
-dom manipulation
+* semantic elements
+* css box model
+* flexbox
+* dom manipulation
 
 
  ## **Design Tools**
