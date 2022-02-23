@@ -1,7 +1,7 @@
 
 
 
-![Lyndsey Scott](./assets/lscover.png?raw=true)
+![Lyndsey Scott](lscover.png?raw=true)
 
 [View Live Site](https://eff.org)
 ## **Overview**
