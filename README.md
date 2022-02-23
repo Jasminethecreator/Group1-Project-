@@ -9,7 +9,7 @@ A responsive site honoring women of color in technology: Lyndsey Scott
 
 
 ## **Tech Stack**
- * HTMl
+ * HTML
  *  CSS
  *  JavaScript
 
