@@ -21,6 +21,8 @@ A responsive site honoring women of color in technology: Lyndsey Scott
 * dom manipulation
 
 
- ## **Design Tools**
- Figma.
+ ## **Color Palette  **
+ 
+![Adobe Colors](adobecolors.png?raw=true)
+
 
