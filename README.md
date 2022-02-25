@@ -21,7 +21,7 @@ A responsive site honoring women of color in technology: Lyndsey Scott
 * dom manipulation
 
 
- ## **Color Palette  **
+ ## **Color Palette**
  
 ![Adobe Colors](adobecolors.png?raw=true)
 
