@@ -3,7 +3,8 @@
 
 ![Lyndsey Scott](lscover.png?raw=true)
 
-[View Live Site](https://lyndseyscott.vercel.app/)
+## [View Live Site](https://lyndseyscott.vercel.app/)
+
 ## **Overview**
 A responsive site honoring women of color in technology: Lyndsey Scott
 
@@ -14,7 +15,7 @@ A responsive site honoring women of color in technology: Lyndsey Scott
  *  JavaScript
 
 
-## **Implentation**
+## **Implementation**
 * semantic elements
 * css box model
 * flexbox
